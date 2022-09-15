@@ -1,0 +1,8 @@
+C:\Users\games\OneDrive\Área de Trabalho\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\games\OneDrive\Área de Trabalho\Vetores\bin\Debug\Vetores.exe
+C:\Users\games\OneDrive\Área de Trabalho\Vetores\bin\Debug\Vetores.pdb
+C:\Users\games\OneDrive\Área de Trabalho\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\games\OneDrive\Área de Trabalho\Vetores\obj\Debug\Vetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\games\OneDrive\Área de Trabalho\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\games\OneDrive\Área de Trabalho\Vetores\obj\Debug\Vetores.exe
+C:\Users\games\OneDrive\Área de Trabalho\Vetores\obj\Debug\Vetores.pdb
